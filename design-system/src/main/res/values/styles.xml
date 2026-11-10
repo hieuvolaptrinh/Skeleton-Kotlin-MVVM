@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="big_price">
+        <item name="android:fontFamily">@font/sf_pro_rounded_bold</item>
+        <item name="android:textSize">36sp</item>
+        <item name="android:lineHeight">44sp</item>
+        <item name="android:letterSpacing">0.0015</item>
+    </style>
+
+    <style name="medium_price">
+        <item name="android:fontFamily">@font/sf_pro_rounded_sb</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:lineHeight">24sp</item>
+        <item name="android:letterSpacing">0.0015</item>
+    </style>
+
+    <style name="price">
+        <item name="android:fontFamily">@font/sf_pro_rounded_sb</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:lineHeight">32sp</item>
+        <item name="android:letterSpacing">0.0015</item>
+    </style>
+
+    <style name="h1">
+        <item name="android:fontFamily">@font/inter_semi_bold</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:lineHeight">32sp</item>
+        <item name="android:letterSpacing">0.0015</item>
+    </style>
+
+    <style name="h1_b">
+        <item name="android:fontFamily">@font/inter_bold</item>
+        <item name="android:textSize">26sp</item>
+        <item name="android:lineHeight">26sp</item>
+        <item name="android:letterSpacing">0</item>
+    </style>
+
+    <style name="title_m">
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:lineHeight">32sp</item>
+        <item name="android:letterSpacing">0</item>
+    </style>
+
+    <style name="title_b">
+        <item name="android:fontFamily">@font/inter_bold</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:lineHeight">24sp</item>
+        <item name="android:letterSpacing">0</item>
+    </style>
+
+    <style name="title_s_sb">
+        <item name="android:fontFamily">@font/inter_semi_bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:lineHeight">28sp</item>
+        <item name="android:letterSpacing">0.0015</item>
+    </style>
+
+    <style name="title_r">
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:lineHeight">16sp</item>
+        <item name="android:letterSpacing">0.0015</item>
+    </style>
+
+    <style name="title_sb">
+        <item name="android:fontFamily">@font/inter_semi_bold</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:lineHeight">28sp</item>
+        <item name="android:letterSpacing">0.0015</item>
+    </style>
+
+
+    <style name="title_s">
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:lineHeight">28sp</item>
+        <item name="android:letterSpacing">0.0015</item>
+    </style>
+
+    <style name="body_l_sb">
+        <item name="android:fontFamily">@font/inter_semi_bold</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:lineHeight">24sp</item>
+        <item name="android:letterSpacing">0</item>
+    </style>
+
+    <style name="body_l">
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:lineHeight">24sp</item>
+        <item name="android:letterSpacing">0</item>
+    </style>
+
+    <style name="big_body_sb">
+        <item name="android:fontFamily">@font/inter_semi_bold</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:lineHeight">24sp</item>
+        <item name="android:letterSpacing">0</item>
+    </style>
+
+    <style name="body_sb">
+        <item name="android:fontFamily">@font/inter_semi_bold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:lineHeight">24sp</item>
+        <item name="android:letterSpacing">0</item>
+    </style>
+
+    <style name="body_m">
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:lineHeight">24sp</item>
+        <item name="android:letterSpacing">0</item>
+    </style>
+
+    <style name="body_r">
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:lineHeight">24sp</item>
+        <item name="android:letterSpacing">0</item>
+    </style>
+
+    <style name="body_small_sb">
+        <item name="android:fontFamily">@font/inter_semi_bold</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineHeight">14sp</item>
+        <item name="android:letterSpacing">0.001</item>
+    </style>
+
+    <style name="body_small_m">
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineHeight">14sp</item>
+        <item name="android:letterSpacing">0.001</item>
+    </style>
+
+    <style name="body_small_r">
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineHeight">20sp</item>
+        <item name="android:letterSpacing">0.0025</item>
+    </style>
+
+    <style name="caption_m">
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:lineHeight">16sp</item>
+        <item name="android:letterSpacing">0.005</item>
+    </style>
+
+    <style name="caption">
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:lineHeight">16sp</item>
+        <item name="android:letterSpacing">0.005</item>
+    </style>
+
+    <style name="caption_sb">
+        <item name="android:fontFamily">@font/inter_semi_bold</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineHeight">22sp</item>
+        <item name="android:letterSpacing">0.005</item>
+    </style>
+
+    <style name="footnote">
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:lineHeight">16sp</item>
+        <item name="android:letterSpacing">0.005</item>
+    </style>
+
+    <!--    Button  -->
+    <style name="Base.Widget.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:textAppearance">@style/body_m</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:lines">1</item>
+        <item name="android:paddingHorizontal">8dp</item>
+        <item name="cornerRadius">60dp</item>
+        <item name="android:elevation">0dp</item>
+        <item name="android:stateListAnimator">@null</item>
+        <item name="iconGravity">textStart</item>
+        <item name="iconPadding">4dp</item>
+        <item name="iconSize">28dp</item>
+    </style>
+
+    <style name="Widget.BaseApp.Main" parent="Base.Widget.Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textAppearance">@style/title_s_sb</item>
+        <item name="android:insetRight">0dp</item>
+        <item name="android:insetLeft">0dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+
+    </style>
+
+    <style name="Widget.BaseApp.PrimaryButton" parent="Base.Widget.Button">
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+    <!-- Primary CTA with a pill gradient background and an optional leading icon. -->
+    <style name="Widget.BaseApp.PrimaryButton.PrimaryButton" parent="Widget.BaseApp.Main">
+        <item name="android:paddingHorizontal">16dp</item>
+        <item name="android:paddingVertical">12dp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/bg_container_1</item>
+        <item name="backgroundTint">@null</item>
+        <item name="iconTint">@color/primary_btn_text_color</item>
+    </style>
+
+    <style name="Widget.BaseApp.OutLine" parent="Widget.BaseApp.Main">
+        <item name="backgroundTint">@color/transparent</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="strokeColor">@color/neutral_divider</item>
+        <item name="android:paddingHorizontal">16dp</item>
+        <item name="android:paddingVertical">12dp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:gravity">center</item>
+
+    </style>
+
+    <style name="Widget.BaseApp.GradientButton56" parent="Widget.BaseApp.Main">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingHorizontal">16dp</item>
+        <item name="android:paddingVertical">12dp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textAppearance">@style/title_s_sb</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/linear_button</item>
+        <!--        <item name="cornerRadius">30dp</item>-->
+        <item name="backgroundTint">@null</item>
+        <item name="iconTint">@color/primary_btn_text_color</item>
+    </style>
+
+    <style name="Widget.BaseApp.GradientButton48" parent="Base.Widget.Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:textAppearance">@style/body_m</item>
+        <item name="android:textColor">@color/text_on_primary</item>
+        <item name="android:background">@drawable/linear_button</item>
+        <!--        <item name="cornerRadius">30dp</item>-->
+        <item name="backgroundTint">@null</item>
+        <item name="iconTint">@color/primary_btn_text_color</item>
+    </style>
+
+    <!-- Small pill-shaped outline button used for the Yes/No feedback rows on ActivityCardInfo. -->
+    <style name="Widget.BaseApp.FeedbackButton" parent="Base.Widget.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">38dp</item>
+        <item name="android:textAppearance">@style/caption_m</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="strokeWidth">0.5dp</item>
+        <item name="strokeColor">@color/primary_700</item>
+        <item name="rippleColor">@color/primary_100</item>
+        <item name="android:gravity">center</item>
+
+        <item name="iconPadding">8dp</item>
+        <item name="iconGravity">textStart</item>
+        <item name="iconTint">@color/primary_100</item>
+        <item name="iconSize">24dp</item>
+    </style>
+
+
+    <!-- bottom sheet -->
+    <style name="WhiteShadow">
+        <item name="android:elevation">12dp</item>
+        <item name="android:outlineAmbientShadowColor">#FFFFFF</item>
+        <item name="android:outlineSpotShadowColor">#FFFFFF</item>
+    </style>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark palette from Figma: IpZOJdoOvl9Sydv49QoQqy, node 1:71. -->
+    <!-- Shared brand, status and fixed colors inherit from values/colors.xml. -->
+
+    <!-- Text/Primary, Text/Grey, Text/On Primary, Dark/Text/Blue. -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_grey">#D9D9D9</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_blue">#646A6E</color>
+
+    <!-- Screen/Dark, Dark/Screen Chat. -->
+    <color name="screen_main">#121212</color>
+    <color name="screen_chat">#1D1D1D</color>
+
+    <!-- Dark/Container, Dark/Container 2. -->
+    <color name="container_1">#303030</color>
+    <color name="container_2">#525458</color>
+
+    <!-- Dark/Neutral/Divider, Dark/Neutral/Disable. -->
+    <color name="neutral_divider">#3A3A3A</color>
+    <color name="neutral_disable">#AEAFB9</color>
+    <!-- neutral_20 is used as a chip/input surface; use Dark/Container. -->
+    <color name="neutral_20">@color/container_1</color>
+
+    <!-- Dark/Transparent/Overlay 20 and 50. Android hex order is AARRGGBB. -->
+    <color name="transparent_overlay_20">#33FFFFFF</color>
+    <color name="transparent_overlay_50">#80FFFFFF</color>
+</resources>

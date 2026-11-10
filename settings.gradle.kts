@@ -19,6 +19,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TV Remote"
+rootProject.name = "Meidcine-Care"
 include(":app")
- 
+include(":design-system")
+include(":IAP")

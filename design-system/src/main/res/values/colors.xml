@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background/Bg and Background/Bg2. -->
+    <color name="bg">#080D1C</color>
+    <color name="bg2">#202A3A</color>
+    <color name="bg3_start">#363E51</color>
+    <color name="bg3_end">#191E26</color>
+
+    <!--   Primary -->
+    <color name="primary_900">#2563EB</color>
+    <color name="primary_700">#3B82F6</color>
+    <color name="primary_500">#60A5FA</color>
+    <color name="primary_300">#93C5FD</color>
+    <color name="primary_100">#DBEAFE</color>
+    <color name="primary_100_40">#4054B0F7</color>
+    <color name="primary_50">#EFF6FF</color>
+    <color name="primary_50_40">#40E7EDFB</color>
+
+    <!--   Secondary -->
+    <color name="secondary_900">#D99000</color>
+    <color name="secondary_700">#F5B82E</color>
+    <color name="secondary_500">#F9CC59</color>
+    <color name="secondary_300">#FCE29A</color>
+    <color name="secondary_100">#FFF2CC</color>
+
+    <!--   Text Color -->
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_grey">#D9D9D9</color>
+    <color name="text_blue">#99AAD6</color>
+    <color name="text_black">#000B00</color>
+
+    <!--   Transparent Color -->
+    <color name="transparent_overlay_80">#CC000000</color>
+    <color name="transparent_overlay_50">#80000000</color>
+    <color name="transparent_overlay_20">#33808080</color>
+    <color name="transparent_overlay_20_bl">#3310141D</color>
+    <color name="transparent_primary_30">#4D2563EB</color>
+    <color name="transparent_primary_10">#1A2563EB</color>
+
+    <!--   Neutral Color -->
+    <color name="neutral_100">#1F1F27</color>
+    <color name="neutral_divider">#D7DCDF</color>
+    <color name="neutral_disable">#ADADAF</color>
+    <color name="neutral_darker">#B9B9B9</color>
+    <color name="neutral_secondary">#7A7A7A</color>
+    <color name="neutral_20">#F3F3F3</color>
+
+    <!--   Surface Color -->
+    <color name="screen_main">@color/bg</color>
+
+    <!--   Container Color -->
+    <color name="container_1">#191F2B</color>
+    <color name="container_2">@color/container_2_start</color>
+
+    <color name="container_2_end">#363E51</color>
+    <color name="container_2_start">#4C5770</color>
+
+    <color name="container_3_start">#363E51</color>
+    <color name="container_3_end">#191E26</color>
+
+    <color name="container_4">#1C1E2D</color>
+    <color name="container_5">#131519</color>
+
+    <!--   Background Container -->
+    <color name="background_container_1_start">#4B4CED</color>
+    <color name="background_container_1_end">#37B6E9</color>
+
+    <color name="background_container_2_start">#37B6E9</color>
+    <color name="background_container_2_end">#4B4CED</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+    <!--  linear  -->
+    <!-- Linear/Button 2 -->
+    <color name="linear_btn2_start">#FF59B5</color>
+    <color name="linear_btn2_center">#FFB3DC</color>
+    <color name="linear_btn2_end">#FFD166</color>
+
+    <!--   Status Color -->
+    <color name="status_green">#3FDB7E</color>
+    <color name="status_red">#F44336</color>
+    <color name="status_yellow">#F2AC02</color>
+
+    <!--   Other -->
+    <color name="rarity_start">#538AFF</color>
+    <color name="rarity_end">#6433F8</color>
+
+    <color name="bg_color">#ff767575</color>
+    <color name="bg_colors">#ff565656</color>
+    <color name="black1">#ff1f1f1f</color>
+    <color name="black2">#ff272b34</color>
+    <color name="black_transparent">#4b000000</color>
+    <color name="blue">#5749f7</color>
+
+    <color name="cardview_dark_background">#ff424242</color>
+    <color name="cardview_light_background">#ffffffff</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+    <color name="colorAccent">@color/primary_900</color>
+    <color name="colorPrimary">#00FFFF</color>
+    <color name="colorPrimaryDark">#7367fa</color>
+    <color name="colorTextLibBackground">#ffffffff</color>
+    <color name="colorTextLibBlack">#ff000000</color>
+    <color name="colorTextLibSelected">#ffffffff</color>
+    <color name="colorTextLibTheme">#ff658c86</color>
+    <color name="colorTextLibWhite">#ffffffff</color>
+    <color name="colorTheme">#ff272b34</color>
+    <color name="color_background">#ff917f97</color>
+    <color name="color_black">#ff000000</color>
+    <color name="color_selected">#ff620b80</color>
+    <color name="color_theme">#ffac72bf</color>
+    <color name="color_white">#ffffffff</color>
+    <color name="colorback">#ffd9d9d9</color>
+    <color name="colormediam">#282A2C</color>
+
+    <color name="dialogColor">#00FFFF</color>
+
+    <color name="gray">#ff848484</color>
+    <color name="green">#ff67bf60</color>
+    <color name="green1">#ff30ce00</color>
+
+
+    <color name="psts_background_tab_pressed">#1affffff</color>
+    <color name="psts_background_tab_pressed_ripple">#aaffffff</color>
+    <color name="red">#fff50c0c</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="txtColor">#ff69e000</color>
+    <color name="yellow">#ffffb400</color>
+
+    <!--    Basic-->
+    <color name="black_100">#000000</color>
+
+</resources>

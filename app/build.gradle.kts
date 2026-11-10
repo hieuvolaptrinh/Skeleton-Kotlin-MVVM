@@ -1,4 +1,5 @@
 import java.util.Properties
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
@@ -58,7 +59,8 @@ android {
 }
 
 dependencies {
-
+    implementation(project(":design-system"))
+    implementation(project(":IAP"))
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
